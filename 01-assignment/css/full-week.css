@@ -1,7 +1,15 @@
+header {
+    margin-bottom: 64px;
+}
+
 h1 {
     font-size: 48px;
     color: rgb(71, 62, 62);
     margin: 15px 0;
+}
+
+header p {
+    margin-bottom: 36px;
 }
 
 a {
@@ -28,6 +36,15 @@ ol {
 li {
     padding: 16px;
     margin: 32px;
-    background-color: rgb(223,136,124);
+    background-color: rgb(223, 136, 124);
     border-radius: 6px;
+}
+
+h2 {
+    margin: 15px;
+    color: rgb(71, 29, 22);
+}
+
+.highlight-goal {
+    background-color: rgb(226,115,101);
 }
